@@ -12,8 +12,8 @@ header {
     margin: 10px;
 }
  #parent {
-    flex-direction: column;
-    justify-content: center;
+    display: flex;
+    justify-content: space-around;
  }
  .contents {
     border: solid 3px rgb(236,122,122);
